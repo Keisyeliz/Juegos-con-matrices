@@ -27,7 +27,7 @@ list_preguntas = ['¿Qué es Python?\n\n1. Juego\n2. Lenguaje de programación\n
 '¿Cuál es el color del arcoíris?\n\n1. Blanco\n2. Negro\n3. Multicolor',
 '¿Cuál es el animal que dice "pío pío"?\n\n1. Pollo\n2. Pato\n3. Ganso',
 '¿Cuál es el nombre del objeto que usamos para medir?\n\n1. Lapicero\n2. Regla\n3. Tigeras',
-'¿Cuál es el nombre del objeto que usamos para cortar papel?\n\n1. Pintura\n2. Tigeras\n3. cartón',
+'¿Cuál es el nombre del objeto que usamos para pintar?\n\n1. Tigeras\n2. Pintura\n3. cartón',
 '¿Cuál es el nombre del objeto que usamos para barrer?\n\n1. Escoba\n2. Trapeador\n3. Pala',
 'Indica el opuesto de la palabra "vacío"\n\n1. Lleno\n2. Medio\n3. Hueco',
 'Selecciona el nombre del objeto que usamos para ver de lejos\n\n1. Telescopio\n2. Microscopio\n3. Prismáticos',
