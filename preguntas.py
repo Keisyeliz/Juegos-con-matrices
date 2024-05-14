@@ -43,13 +43,16 @@ def fnt_impresion_matriz():
         print('\n')
 
 
+
 contador = 0
+pregunta_actual = 1
 for i in range(len(matriz)):
     for j in range(len(matriz[i])):
         import os
         os.system('cls')
         fnt_impresion_matriz()
         print()
+        print(f"\nPregunta {pregunta_actual}/{len(list_preguntas)}")
         print(list_preguntas[contador])
         print()
         r = input('-> ')
@@ -58,3 +61,4 @@ for i in range(len(matriz)):
         else:
             matriz[i][j] = incorrecto
         contador += 1
+        pregunta_actual += 1
